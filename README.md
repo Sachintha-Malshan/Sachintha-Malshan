@@ -1,8 +1,13 @@
-# 💫 About Me:
-👋 Hy! I'm Sachintha, an Engineer working in the ISP industry.<br><br>I specialize in developing and automating end-to-end solutions for telco and power-related operations. My expertise lies in:<br><br>Automation Projects: Designing and deploying efficient solutions to streamline workflows.<br>Software Development: Creating RESTful APIs, web applications, and robust backend systems.<br>Data Stewardship: Overseeing ETL processes and maintaining the integrity of internal technical databases.
+## 💫 About Me
+👋 Hi there! I'm **Sachintha**, a **Senior Software and Automation Engineer** working in the **ISP industry**.<br><br>
+I’m passionate about building scalable systems and automating complex telco and power-related operations. My work focuses on designing, developing, and integrating end-to-end solutions that make processes faster, smarter, and more reliable.<br><br>
 
+### 🧠 What I Do
+⚙️ **Automation Engineering** – Designing and deploying automation solutions to streamline operational workflows.<br>
+💻 **Software Development** – Developing **full-stack web applications** and **microservices**, with a strong focus on performance, scalability, and clean architecture.<br>
+📊 **Data Management** – Overseeing ETL pipelines, ensuring data quality, and maintaining internal technical databases.<br><br>
 
-## 🌐 Socials:
+## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sachintha-malshan-dissanayake/) 
 
 # 💻 Tech Stack:
